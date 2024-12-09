@@ -1,7 +1,7 @@
 {
   "name": "Alien NFT",
   "description": "A pixel art alien exploring the cosmos.",
-  "image": "https://your-hosting-url/alien.jpg",
+  "image": "https://leftychris13.github.io/ERC404URI/images/alien.jpg",
   "attributes": [
     {
       "trait_type": "Species",
